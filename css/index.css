@@ -12,7 +12,7 @@ html,body {
 
 body {
     background-color: #000;
-    background-image: url('/res/PHOTO_HEIGHT.png');
+    background-image: url('../res/PHOTO_HEIGHT.png');
     background-position: center top;
     background-size: 100% auto;
     background-repeat: repeat-y;
